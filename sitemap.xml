@@ -3,26 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
+    <loc>jayyeung.com/</loc>
+    <lastmod>2020-05-30T11:57:16+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>jayyeung.com/posts/</loc>
+    <lastmod>2020-05-30T11:57:16+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>jayyeung.com/posts/write-consulting-slides/</loc>
+    <lastmod>2020-05-30T11:57:16+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>jayyeung.com/posts/prepare-consulting-interview/</loc>
     <lastmod>2020-05-30T02:52:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/</loc>
-    <lastmod>2020-05-30T02:52:00+01:00</lastmod>
+    <loc>jayyeung.com/categories/</loc>
   </url>
   
   <url>
-    <loc>/posts/testing/</loc>
-    <lastmod>2020-05-30T02:52:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
+    <loc>jayyeung.com/tags/</loc>
   </url>
   
 </urlset>
