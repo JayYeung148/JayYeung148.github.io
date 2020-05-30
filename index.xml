@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jay Yeung</title>
-    <link>jayyeung.com/</link>
+    <link>/</link>
     <description>Jay Yeung</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 30 May 2020 02:52:00 +0100</lastBuildDate>
     
-    <atom:link href="jayyeung.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Testing</title>
-      <link>jayyeung.com/posts/testing/</link>
+      <link>/posts/testing/</link>
       <pubDate>Sat, 30 May 2020 02:52:00 +0100</pubDate>
       
-      <guid>jayyeung.com/posts/testing/</guid>
+      <guid>/posts/testing/</guid>
       <description>&lt;h2 id=&#34;test&#34;&gt;Test&lt;/h2&gt;
 &lt;p&gt;This is a &lt;strong&gt;test&lt;/strong&gt;&lt;/p&gt;
 </description>

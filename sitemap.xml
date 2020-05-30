@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>jayyeung.com/</loc>
+    <loc>/</loc>
     <lastmod>2020-05-30T02:52:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>jayyeung.com/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2020-05-30T02:52:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>jayyeung.com/posts/testing/</loc>
+    <loc>/posts/testing/</loc>
     <lastmod>2020-05-30T02:52:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>jayyeung.com/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>jayyeung.com/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
