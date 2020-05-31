@@ -198,6 +198,8 @@ header a {
 
 .site-header {
     white-space: nowrap;
+    font-size: 2em;
+    flex: 1;
 }
 
 /* Pages */
@@ -211,6 +213,12 @@ main h1 {
 
 .post-short-list:first-of-type {
     margin-top: 1em;
+}
+
+/* Homepage */
+
+.homepage-content h2 {
+    font-size: 1.4em;
 }
 
 /* Articles */
@@ -234,14 +242,20 @@ article header h1 a {
     color: #333;
 }
 
+article p {
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+}
+
 .article-info {
-    font-size: 0.75em;
-    color: grey;
-    margin-top: 1em;
+    font-size: 0.9em;
+    color: #333;
+    margin-top: 0.25em;
+    margin-bottom: 0.25em;
 }
 
 .article-info a {
-    color: grey;
+    color: #333;
 }
 
 .article-info a:hover {
@@ -292,7 +306,8 @@ article img {
 }
 
 .read-more {
-    font-size: 0.85em;
+    font-size: 1.0em;
+    margin-top: 0.25em;
 }
 
 .divider {
